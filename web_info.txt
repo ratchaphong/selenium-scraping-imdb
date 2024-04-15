@@ -1,0 +1,35 @@
+Meta Tags:
+Content: 
+Name: viewport, Content: width=device-width
+Name: description, Content: As rated by regular IMDb voters.
+Property: og:site_name, Content: IMDb
+Property: og:title, Content: IMDb Top 250 Movies
+Property: og:description, Content: As rated by regular IMDb voters.
+Property: og:type, Content: website
+Property: og:image, Content: https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png
+Property: og:image:height, Content: 1000
+Property: og:image:width, Content: 1000
+Property: og:locale, Content: en_US
+Property: og:locale:alternate, Content: es_ES
+Property: og:locale:alternate, Content: es_MX
+Property: og:locale:alternate, Content: fr_FR
+Property: og:locale:alternate, Content: fr_CA
+Property: og:locale:alternate, Content: it_IT
+Property: og:locale:alternate, Content: pt_BR
+Property: og:locale:alternate, Content: hi_IN
+Property: og:locale:alternate, Content: de_DE
+Property: twitter:site, Content: @IMDb
+Property: twitter:title, Content: IMDb Top 250 Movies
+Property: twitter:description, Content: As rated by regular IMDb voters.
+Property: twitter:card, Content: summary_large_image
+Property: twitter:image, Content: https://m.media-amazon.com/images/G/01/imdb/images/social/imdb_logo.png
+Property: twitter:image:alt, Content: As rated by regular IMDb voters.
+Property: imdb:pageType, Content: chart
+Property: imdb:subPageType, Content: top250movie
+Content: 
+Name: next-head-count, Content: 34
+
+SEO Tags:
+
+Title:
+IMDb Top 250 Movies
